@@ -1,0 +1,5 @@
+10/12/2020;Vitto;RESPINTA;-;-
+10/12/2020;Alloggio;APPROVATA;Manager;40
+10/12/2020;Aaa;APPROVATA;Operational Manager;40.1
+10/12/2020;Viaggio;APPROVATA;Operational Manager;999
+10/12/2020;Vitto;APPROVATA;CEO;1400
